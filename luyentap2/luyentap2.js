@@ -1,0 +1,1 @@
+console.log('made in japan from javascript')
